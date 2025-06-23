@@ -8,6 +8,8 @@ html {
     /* The Font Family- Really important!! */
     font-family: "Teko", sans-serif;
     box-sizing: border-box;
+    background-color: rgb(132, 132, 255);
+   
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
@@ -37,7 +39,7 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(132, 132, 255);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(71, 71, 71);
@@ -57,7 +59,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: rgb(71, 71, 71);
-    color: white;
+    color: rgb(132, 132, 255);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -75,7 +77,7 @@ img {
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: rgb(71, 71, 71);
-    color: white;
+    color: rgb(132, 132, 255);
     text-align: right;
     padding: 3em 3em;
 }
